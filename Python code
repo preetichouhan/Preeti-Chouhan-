@@ -1,0 +1,2 @@
+r=input("input the radius of the circle :")
+print("the area of the circle with radius 1.1 is",math.PI*r*r)
